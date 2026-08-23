@@ -1,8 +1,8 @@
 # Hi there, I'm Adrià! 👋
  
-> **Systems & Software Engineer | DevOps Practitioner**
+> **DevSecOps Engineer**
  
-Currently working as a Software Engineer applying DevOps methodologies in every project, former Systems Engineer with a big passion into Linux systems, automation and locally privacy-focused LLM inference.
+Currently working as a DevSecOps Engineer, former Systems Engineer with a big passion into Linux systems, automation and locally privacy-focused LLM inference.
  
 [![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adria-rodriguez-quinones/)
  
